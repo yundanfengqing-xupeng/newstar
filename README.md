@@ -1,0 +1,2 @@
+# newstar
+to learn python 
